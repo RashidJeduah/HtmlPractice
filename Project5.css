@@ -1,0 +1,47 @@
+body{
+	background-color: #FFDAC1;
+}
+.menu{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	overflow: hidden;
+	background-color: pink;
+}
+li a{
+	float: left;
+	display: block;
+	color: navy;
+	text-align: center;
+	padding: 16px;
+	text-decoration: none;	
+}
+li a:hover{
+	background-color: #C7CEEA;
+}
+h2{
+	color: purple;
+	font-style: unset;
+	padding:10px;
+	background-color: white;
+	margin-bottom: 5px;
+}
+#images a{
+	color: blue;
+	font-style:oblique;
+	overflow: hidden;
+	display: block;
+	text-decoration: none;
+}
+#images a: hover{
+	background-color: black;
+}
+#bottom{
+	background-color: grey;
+	padding: 50px;
+	margin-top: 100px;
+	color: white;
+	border: 5px solid;
+	border-color:  #AFF8DB;
+	border-radius: 2%;: 
+}
