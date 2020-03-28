@@ -1,0 +1,63 @@
+.one{
+	background-color: aqua; 
+}
+#callus{
+	background-color: yellow;
+	color:black;
+	border: 1px solid blue;
+
+}
+#applynow{
+	background-color: blue;
+	color: white;  
+}
+.two{
+	background-color: white;
+	border: 2px solid #6EB5FF;
+
+}
+#p1{
+	text-align: center;
+}
+.three{
+	background-color: black;
+	color:white;
+}
+.four{
+	background-color: aqua;
+	color: teal;
+	text-decoration-style: 
+}
+.five{
+	background-color: skyblue;
+	color: teal;
+	text-decoration: 
+}
+.six{
+	background-image:
+	color:white;
+	border: 2px solid #6EB5FF; 
+}
+#button{
+	color: black;
+	background-color: yellow
+}
+.seven{
+	background-color: grey;
+}
+div{
+	padding:50px;
+	margin:5px;
+
+}
+.two{
+	padding: 8px;
+}
+#p00{
+	color: indigo;
+	font-size: 25px;
+	
+}
+.one{
+	padding: 25px;
+}
